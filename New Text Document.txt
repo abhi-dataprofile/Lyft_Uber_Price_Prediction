@@ -1,0 +1,1 @@
+This project aims to predict the price of an Uber/Lyft ride using data on the surge charges and other effecting factors as a part of Kaggle competition. 
